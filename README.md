@@ -7,7 +7,7 @@
 
 - 🌍 I’m based in Varanasi,Uttar Pradesh, India
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Intresting and challenging projects**
 
