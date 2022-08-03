@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amityadav2611&show_icons=true&locale=en" alt="amityadav2611" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amityadav2611&" alt="amityadav2611" /></p>
+
+
+![snake gif](https://github.com/amityadav2611/amityadav2611/blob/output/github-contribution-grid-snake.gif)
