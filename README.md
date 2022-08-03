@@ -1,14 +1,9 @@
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)](https://amityadav.io)
-
-
 <h1 align="center">Hi 👋 My name is Amit Kumar Yadav</h1>
 <h3 align="center">Software Developer Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amityadav2611&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav2611" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/amit261199?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amit261199?s=08?logo=twitter&style=for-the-badge" alt="https://twitter.com/amit261199?s=08" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
@@ -24,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/amit261199?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/amit261199?s=08" height="30" width="40" /></a>
+<a href="https://twitter.com/@amit261199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amit261199" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-yadav-6b0357167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-yadav-6b0357167" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/amit261199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amit261199" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/amityad2611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amityad2611/" height="30" width="40" /></a>
