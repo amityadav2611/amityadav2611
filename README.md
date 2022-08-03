@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amityadav2611&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav2611" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🌍 I’m based in Varanasi,Uttar Pradesh, India
 
 - 🌱 I’m currently learning **Backend Development**
 
